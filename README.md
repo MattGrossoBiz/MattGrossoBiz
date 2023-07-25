@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MattGrossoBiz
 - i wanted to make a toy thats more like a computer intranet
-- this invovls a lot it main idea is baised on the entertainment biz
+- 
+- this invovles a lot it main idea is baised on the entertainment biz.
+- 
 - producers
 - writers
 - dirctors
